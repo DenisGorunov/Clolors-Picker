@@ -73,7 +73,9 @@ const run = (init = false) => {
         }
     });
 
-    updateUrl(randomColor);
+    if(!init) {
+        updateUrl(randomColor);
+    }
 };
 
 run(true);

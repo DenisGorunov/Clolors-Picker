@@ -1,4 +1,4 @@
-# Clolors-Picker
+# Colors-Picker
 You can easy choose pallet of colors for your design, copy and send choosen colors URL to your designer or keep the colors to future use.
 
 # Space
